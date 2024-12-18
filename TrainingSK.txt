@@ -1,0 +1,7 @@
+dit is het eerste bestand
+met een tweede regel
+derde regel
+regel 4
+regel 11
+bug 2 fixed
+bug 21 fixed
